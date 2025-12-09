@@ -3,3 +3,5 @@ Creates  a Database Data warehouse
 /*
 
 Create Database DataWarehouse
+Create Database DataWarehouse_silver
+Create Database DataWarehouse_gold
